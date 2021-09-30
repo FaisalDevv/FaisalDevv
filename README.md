@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @FaisalDevv
 - 👀 I’m interested in App Development
 - 🌱 I’m currently learning Flutter
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <!---
 FaisalDevv/FaisalDevv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
