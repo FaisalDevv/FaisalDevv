@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @FaisalDevv
-- 👀 I’m interested in App Development
+- 👀 I’m interested in Web and App Development
 - 🌱 I’m currently learning Flutter
 
 <!---
